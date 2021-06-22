@@ -2,4 +2,4 @@
 
 > Built with: ReactJS, Hooks, React-Router, Next.js, Stripe
 
-> Deployed with Vercel: https://amazon-clone-next-js-five.vercel.app/
+> Deployed with Vercel: **[Visit Website](https://amazon-clone-next-js-five.vercel.app/)**
